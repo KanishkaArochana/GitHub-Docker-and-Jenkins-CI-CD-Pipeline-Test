@@ -1,0 +1,6 @@
+# This is a sample .gitignore file for a Node.js project. And this will ignore the following files and directories:
+nodeApp/node_modules
+nodeApp/package-lock.json
+
+node_modules
+package-lock.json

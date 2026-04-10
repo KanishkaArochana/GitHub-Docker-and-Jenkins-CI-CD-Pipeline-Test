@@ -1,0 +1,4 @@
+1. Make Node App
+2. Create Docker file
+      docker build -t my-node-app . --> Create Image
+      docker run -p 3000:3000 my-node-app --> Create Container using Image
